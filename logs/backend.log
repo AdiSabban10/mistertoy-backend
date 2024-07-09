@@ -1,0 +1,665 @@
+24.12.2023, 13:54:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 13:56:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 13:56:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 13:59:16 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 13:59:20 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:07:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:07:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:07:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:07:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:07:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:08:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:08:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:08:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:08:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:09:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:09:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:09:20 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:09:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:09:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:13:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:14:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:14:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:14:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:14:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:15:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:15:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:15:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:15:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:15:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:16:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:16:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:16:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:16:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:16:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:17:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:17:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:18:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:18:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:18:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:18:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:19:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:19:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:19:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:19:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:19:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:20:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:20:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:20:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:20:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:20:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:21:20 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:21:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:21:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:21:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:21:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:22:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:08 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:23:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:24:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:24:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:24:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:25:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:25:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:26:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:27:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:28:20 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:28:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:28:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:29:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:29:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:29:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:29:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:30:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:30:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:31:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:31:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:31:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:32:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:32:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:33:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:33:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:34:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:34:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:35:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:36:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:37:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:37:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:37:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:37:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:40:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:40:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:44:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:44:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:44:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:45:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:45:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:46:06 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:46:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:46:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:46:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:47:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:47:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:48:06 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:48:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:48:23 - INFO - Car pAkNh removed
+24.12.2023, 14:52:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:53:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:53:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:53:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:54:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:56:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:57:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:58:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:58:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:59:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:59:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:59:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 14:59:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:00:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:00:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:00:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:01:01 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:01:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:01:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:02:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:02:28 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:02:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:02:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:03:52 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:04:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:05:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:05:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:05:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:05:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:05:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:06:25 - ERROR - Cannot remove car | Not your car
+24.12.2023, 15:06:27 - INFO - Car kJ2fy removed
+24.12.2023, 15:06:30 - ERROR - Cannot remove car | Not your car
+24.12.2023, 15:07:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:07:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:07:44 - INFO - Invalid Credentials | {"username":"admin","password":"admin"}
+24.12.2023, 15:07:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:08:17 - ERROR - Cannot remove car | Not your car
+24.12.2023, 15:08:19 - ERROR - Cannot remove car | Not your car
+24.12.2023, 15:08:22 - INFO - Car uZJO6 removed
+24.12.2023, 15:09:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:10:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:10:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:11:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:11:16 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:11:20 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:11:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:11:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:12:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:12:08 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:12:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:12:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:14:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:14:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:14:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:14:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:15:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:15:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:08 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:16:37 - INFO - Cannot remove car, No user
+24.12.2023, 15:17:23 - INFO - Car 5w6ET removed
+24.12.2023, 15:17:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:17:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:18:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:18:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:18:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:18:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:19:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:21 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:22 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:20:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:21:01 - INFO - Car pfKmq removed
+24.12.2023, 15:21:08 - INFO - Car G2tEr removed
+24.12.2023, 15:21:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:21:18 - ERROR - Cannot remove car | Not your car
+24.12.2023, 15:21:19 - INFO - Car gb6NW removed
+24.12.2023, 15:21:31 - INFO - Car vvaMR removed
+24.12.2023, 15:21:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:21:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:21:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:22:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:22:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:38:32 - INFO - Invalid Credentials | {"username":"admin","password":"admin"}
+24.12.2023, 15:39:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:39:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:40:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:42:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:42:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:49:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:49:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:49:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:49:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:49:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:50:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:50:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:50:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:51:13 - INFO - user before send to front: | {"_id":"u102","username":"muki","fullname":"Muki Ba","password":"secret2","score":6761}
+24.12.2023, 15:51:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:51:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:52:22 - INFO - Car ZZSBU removed
+24.12.2023, 15:52:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:52:32 - INFO - Car o57Ls removed
+24.12.2023, 15:52:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:53:04 - INFO - Car kheKv removed
+24.12.2023, 15:53:16 - INFO - Car Tmsvx removed
+24.12.2023, 15:53:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:53:41 - INFO - Car kBzok removed
+24.12.2023, 15:53:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:19 - INFO - Car lWD1A removed
+24.12.2023, 15:54:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:54:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:55:02 - INFO - Cannot remove car, No user
+24.12.2023, 15:55:29 - INFO - Invalid Credentials | {"username":"admin","password":"admin"}
+24.12.2023, 15:56:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:56:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:56:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:57:00 - INFO - loggedinUser /api/user: | {"_id":"u102","fullname":"Muki Ba","score":6761}
+24.12.2023, 15:57:00 - INFO - user before send to front: | {"_id":"u102","username":"muki","fullname":"Muki Ba","password":"secret2","score":4047}
+24.12.2023, 15:57:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:57:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:57:53 - INFO - loggedinUser /api/user: | {"_id":"u102","fullname":"Muki Ba","score":4047}
+24.12.2023, 15:57:54 - INFO - user before send to front: | {"_id":"u102","username":"muki","fullname":"Muki Ba","password":"secret2","score":1333}
+24.12.2023, 15:58:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:58:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 15:58:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:00:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:00:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:00:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:00:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:00:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:01:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:01:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:01:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:02:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:02:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:02:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:02:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:03:02 - INFO - loggedinUser car delete: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:03:02 - INFO - Car qQRiU removed
+24.12.2023, 16:03:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:03:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:04:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:04:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:04:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:04:33 - INFO - loggedinUser car delete: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:04:33 - ERROR - Cannot remove car | Not your car
+24.12.2023, 16:04:37 - INFO - loggedinUser car create: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:04:38 - INFO - loggedinUser car create: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:05:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:08:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:08:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:08:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:08:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:14:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:14:32 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:14:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:14:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:15:01 - INFO - loggedinUser car create: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:15:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:15:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:40 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:16:55 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:17:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:17:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:17:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:17:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:17:11 - INFO - loggedinUser car delete: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:17:11 - ERROR - Cannot remove car | Not your car
+24.12.2023, 16:17:19 - INFO - loggedinUser car create: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:17:33 - INFO - loggedinUser car create: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:17:51 - INFO - loggedinUser /api/user: | {"username":"admin","password":"admin","fullname":"admin","score":10000,"_id":"8gieY"}
+24.12.2023, 16:17:51 - INFO - user before send to front: | {"username":"admin","password":"admin","fullname":"admin","score":2375,"_id":"8gieY"}
+24.12.2023, 16:18:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:18:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:18:32 - INFO - loggedinUser car delete: | {"username":"admin","password":"admin","fullname":"admin","score":2375,"_id":"8gieY"}
+24.12.2023, 16:18:32 - INFO - Car tTow0 removed
+24.12.2023, 16:18:54 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 16:18:59 - INFO - loggedinUser car create: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 16:19:17 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 16:19:17 - INFO - Car em8lL removed
+24.12.2023, 16:20:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:20:05 - INFO - loggedinUser car create: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 16:20:17 - INFO - user checklogin: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:23 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:23 - ERROR - Cannot remove car | Not your car
+24.12.2023, 16:20:26 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:26 - ERROR - Cannot remove car | Not your car
+24.12.2023, 16:20:37 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:49 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:50 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:20:50 - INFO - Car 5CRhG removed
+24.12.2023, 16:21:25 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:21:26 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:21:26 - INFO - Car wufHz removed
+24.12.2023, 16:21:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:21:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:22:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:22:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:22:43 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:22:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:22:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:23:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:24:22 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:24:31 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:24:38 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:24:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:25:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:25:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:25:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:25:36 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:25:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:47 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:56 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:26:58 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:27:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:28:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:28:16 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:28:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:28:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:28:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:29:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:32:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:32:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:32:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:32:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:32:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:33:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:33:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:33:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:33:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:33:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:07 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:36:50 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:38:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:38:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:38:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:38:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:38:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:39:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:39:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:41:04 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:41:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:42:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:42:46 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:42:46 - INFO - Car 9Zy74 removed
+24.12.2023, 16:43:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:43:57 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:44:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:44:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:47:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:47:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:47:49 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:47:49 - INFO - Car khelx removed
+24.12.2023, 16:47:50 - INFO - loggedinUser car delete: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:47:50 - INFO - Car jRjOk removed
+24.12.2023, 16:48:06 - INFO - loggedinUser car create: | {"_id":"u102","fullname":"Muki Ba","score":10000}
+24.12.2023, 16:48:39 - ERROR - Cannot save car | Not your car
+24.12.2023, 16:49:05 - INFO - loggedinUser car create: | {"_id":"AXuaH","fullname":"admin","score":10000}
+24.12.2023, 16:49:06 - INFO - loggedinUser car create: | {"_id":"AXuaH","fullname":"admin","score":10000}
+24.12.2023, 16:49:12 - ERROR - Cannot save car | Not your car
+24.12.2023, 16:49:17 - INFO - loggedinUser car create: | {"_id":"AXuaH","fullname":"admin","score":10000}
+24.12.2023, 16:49:45 - INFO - loggedinUser /api/user: | {"_id":"AXuaH","fullname":"admin","score":10000}
+24.12.2023, 16:49:45 - INFO - user before send to front: | {"_id":"AXuaH","fullname":"admin","score":5552}
+24.12.2023, 16:50:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:50:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:50:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:51:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:52:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:52:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:52:30 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 16:53:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:54:37 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:55:47 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:57:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:57:30 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:57:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:57:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:57:53 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 16:59:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:00:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:00:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:01:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:01:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:01:23 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:01:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:01:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:02:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:02:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:03:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:03:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:03:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:03:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:04:41 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:05:16 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:07:42 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:07:44 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:07:46 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:07:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:08:13 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:08:17 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:08:30 - INFO - Invalid Credentials | {"username":"admin","password":"admin"}
+24.12.2023, 17:08:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:09:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:09:08 - ERROR - Cannot save car | Not your car
+24.12.2023, 17:09:13 - INFO - loggedinUser car create: | {"_id":"Uo93j","fullname":"admin","score":10000}
+24.12.2023, 17:09:47 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:09:48 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:31 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:45 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:47 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:10:50 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:02 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:16 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:11:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:12:06 - INFO - loggedinUser car create: | {"_id":"Uo93j","fullname":"admin","score":10000}
+24.12.2023, 17:12:13 - INFO - loggedinUser car create: | {"_id":"Uo93j","fullname":"admin","score":10000}
+24.12.2023, 17:15:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:06 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:15 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:34 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:51 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:15:59 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:16:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:16:11 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:17:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:17:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:17:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:17:22 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 17:17:28 - INFO - loggedinUser car create: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 17:20:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:21:00 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:21:03 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:21:05 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:21:19 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:23:18 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:23:27 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+24.12.2023, 17:23:27 - INFO - Car em8lL removed
+24.12.2023, 17:23:37 - INFO - loggedinUser car delete: | null
+24.12.2023, 17:23:37 - INFO - Cannot remove car, No user
+24.12.2023, 17:23:39 - INFO - loggedinUser car delete: | null
+24.12.2023, 17:23:39 - INFO - Cannot remove car, No user
+24.12.2023, 17:23:52 - INFO - user checklogin: | {"_id":"Uo93j","fullname":"admin","score":10000}
+24.12.2023, 17:24:07 - ERROR - Cannot save car | Not your car
+24.12.2023, 17:24:13 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+24.12.2023, 17:24:13 - INFO - Car vGOYY removed
+24.12.2023, 17:24:30 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+24.12.2023, 17:24:37 - INFO - loggedinUser car create: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+24.12.2023, 17:25:09 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:25:10 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:25:14 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:25:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:25:35 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:26:01 - INFO - loggedinUser car delete: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+24.12.2023, 17:26:01 - INFO - Car pT5vo removed
+24.12.2023, 17:26:02 - INFO - loggedinUser car delete: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+24.12.2023, 17:26:02 - ERROR - Cannot remove car | Not your car
+24.12.2023, 17:26:04 - INFO - loggedinUser car delete: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+24.12.2023, 17:26:04 - ERROR - Cannot remove car | Not your car
+24.12.2023, 17:26:25 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:26:27 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:26:54 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:27:08 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:27:12 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:27:18 - ERROR - Cannot save car | Not your car
+24.12.2023, 17:27:24 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:27:33 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:27:39 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:28:26 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:28:29 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:28:49 - INFO - Server listening on port http://127.0.0.1:3030/
+24.12.2023, 17:28:51 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 12:56:36 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 12:57:10 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:02:43 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:07:12 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:08:47 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:09:38 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:09:50 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:10:02 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:10:02 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:11:52 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:11:53 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:12:04 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:12:31 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 13:14:04 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:15:07 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:15:48 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:15:48 - INFO - Car Du2qd removed
+25.3.2024, 13:17:44 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:17:49 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:18:28 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:18:51 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:20:19 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:20:27 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:20:31 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:20:52 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:21:57 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:23:44 - INFO - loggedinUser car delete: | {"_id":"YT8xh","fullname":"Ari Sor","score":10000}
+25.3.2024, 13:23:44 - ERROR - Cannot remove car | Not your car
+25.3.2024, 13:23:48 - INFO - loggedinUser car delete: | {"_id":"YT8xh","fullname":"Ari Sor","score":10000}
+25.3.2024, 13:23:48 - ERROR - Cannot remove car | Not your car
+25.3.2024, 13:25:13 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:25:13 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:25:22 - INFO - loggedinUser car delete: | {"_id":"YT8xh","fullname":"Ari Sor","score":10000}
+25.3.2024, 13:25:22 - ERROR - Cannot remove car | Not your car
+25.3.2024, 13:26:07 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:26:11 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:26:28 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:26:33 - INFO - loggedinUser car delete: | {"_id":"YT8xh","fullname":"Ari Sor","score":10000}
+25.3.2024, 13:26:33 - INFO - Car O28BJ removed
+25.3.2024, 13:26:40 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:26:48 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:26:48 - INFO - Car fGOU1 removed
+25.3.2024, 13:27:05 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:27:54 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:28:04 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:28:12 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:28:39 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:28:46 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:29:20 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:34:19 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:34:34 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":1552}
+25.3.2024, 13:34:56 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:35:40 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:35:56 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:36:55 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:46:06 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:46:15 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:46:16 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:47:29 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:48:22 - ERROR - Cannot save car | Not your car
+25.3.2024, 13:48:36 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:50:21 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:50:31 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:50:49 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 13:51:29 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:51:29 - INFO - Car I8MNc removed
+25.3.2024, 13:51:31 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 13:51:31 - INFO - Car lqIQG removed
+25.3.2024, 13:52:22 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:06:58 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:07:06 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:22:14 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:22:20 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:33:27 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:33:45 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:33:51 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:38:44 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:41:19 - INFO - Invalid Credentials | {"username":"pu","password":"puki"}
+25.3.2024, 14:41:30 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:41:55 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:44:54 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:45:53 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:46:26 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:46:49 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:47:00 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:47:05 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:47:12 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:47:57 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:48:09 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:48:16 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:48:16 - DEBUG - use innnn: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:48:39 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 14:48:58 - INFO - user checklogin: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:52:19 - INFO - loggedinUser car delete: | {"_id":"u101","fullname":"Puki Ja","score":10000,"isAdmin":true}
+25.3.2024, 14:52:19 - INFO - Car bIqBK removed
+25.3.2024, 14:53:16 - INFO - user checklogin: | {"_id":"6iykr","fullname":"Kiki Ki","score":10000}
+25.3.2024, 14:53:31 - ERROR - Cannot save car | Not your car
+25.3.2024, 19:36:12 - INFO - Server listening on port http://127.0.0.1:3030/
+25.3.2024, 19:36:34 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 9:51:51 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 9:52:06 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 9:52:09 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 9:52:15 - INFO - user checklogin: | {"_id":"Uo93j","fullname":"admin","score":10000}
+7.7.2024, 9:52:23 - ERROR - Cannot save car | Not your car
+7.7.2024, 9:52:29 - ERROR - Cannot save car | Not your car
+7.7.2024, 9:52:40 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 13:30:23 - INFO - Server listening on port http://127.0.0.1:3030/
+7.7.2024, 19:18:39 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 14:43:49 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 14:59:53 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 15:04:01 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 15:15:39 - INFO - loggedinUser car delete: | null
+8.7.2024, 15:15:39 - INFO - Cannot remove car, No user
+8.7.2024, 15:19:05 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 15:23:03 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 15:23:20 - INFO - user checklogin: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:23:31 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:23:31 - ERROR - Cannot remove car | Not your car
+8.7.2024, 15:23:41 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:23:41 - ERROR - Cannot remove car | Not your car
+8.7.2024, 15:25:02 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:25:02 - ERROR - Cannot remove car | Not your car
+8.7.2024, 15:25:20 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:25:20 - INFO - Car 2wV6e removed
+8.7.2024, 15:26:15 - INFO - Server listening on port http://127.0.0.1:3030/
+8.7.2024, 15:26:24 - INFO - loggedinUser car delete: | {"_id":"Uo93j","fullname":"admin","score":10000}
+8.7.2024, 15:26:24 - ERROR - Cannot remove car | Not your car
+8.7.2024, 15:26:45 - INFO - user checklogin: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+8.7.2024, 15:26:50 - INFO - loggedinUser car delete: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+8.7.2024, 15:26:50 - INFO - Car wYrey removed
+9.7.2024, 10:11:04 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 10:12:58 - INFO - user checklogin: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+9.7.2024, 10:17:10 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 10:19:21 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 10:31:52 - INFO - user checklogin: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+9.7.2024, 10:31:57 - INFO - loggedinUser car delete: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+9.7.2024, 10:31:57 - INFO - Car WepLV removed
+9.7.2024, 11:59:13 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 11:59:28 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 12:18:16 - INFO - user checklogin: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+9.7.2024, 12:18:23 - INFO - loggedinUser car delete: | {"_id":"a101","fullname":"admin admin","score":10000,"isAdmin":true}
+9.7.2024, 12:18:23 - INFO - Car Du2qd removed
+9.7.2024, 12:33:59 - INFO - Server listening on port http://127.0.0.1:3030/
+9.7.2024, 18:41:06 - INFO - Server listening on port http://127.0.0.1:3030/
