@@ -29,11 +29,13 @@ app.use(express.json())
 
 // Toy LIST
 app.get('/api/toy', (req, res) => {
-    console.log('get list')
     const filterBy = {
         txt: req.query.txt || '',
         maxPrice: +req.query.maxPrice || 0,
-        labels: req.query.labels || []
+        inStock: req.query.inStock || 'all',
+        labels: req.query.labels || [],
+        sortBy: req.query.sortBy || '',
+        sortDir: +req.query.sortDir || 1,
     }
     toyService.query(filterBy)
         .then((toys) => {

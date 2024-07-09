@@ -1,9 +1,45 @@
 [
     {
+        "name": "Toy",
+        "price": 20,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1720555375462,
+        "inStock": true,
+        "_id": "NDtNN"
+    },
+    {
+        "name": "Board Game",
+        "price": 80,
+        "labels": [
+            "Box game"
+        ],
+        "createdAt": 1720552653912,
+        "inStock": "",
+        "_id": "wCxP1"
+    },
+    {
+        "name": "Board Game",
+        "price": 105,
+        "labels": [
+            "Box game"
+        ],
+        "createdAt": 1720551051884,
+        "inStock": true,
+        "_id": "qt1h2"
+    },
+    {
         "_id": "t101",
         "name": "Talking Doll",
         "price": 123,
-        "labels": ["Doll", "Battery Powered", "Baby"],
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
         "createdAt": 1631031801011,
         "inStock": true
     },
@@ -11,7 +47,10 @@
         "_id": "t102",
         "name": "Racing Car",
         "price": 89,
-        "labels": ["On wheels", "Battery Powered"],
+        "labels": [
+            "On wheels",
+            "Battery Powered"
+        ],
         "createdAt": 1629031801011,
         "inStock": true
     },
@@ -19,7 +58,10 @@
         "_id": "t103",
         "name": "Art Kit",
         "price": 45,
-        "labels": ["Art", "Box game"],
+        "labels": [
+            "Art",
+            "Box game"
+        ],
         "createdAt": 1615031801011,
         "inStock": false
     },
@@ -27,7 +69,10 @@
         "_id": "t104",
         "name": "Puzzle Game",
         "price": 35,
-        "labels": ["Puzzle", "Box game"],
+        "labels": [
+            "Puzzle",
+            "Box game"
+        ],
         "createdAt": 1602031801011,
         "inStock": true
     },
@@ -35,7 +80,9 @@
         "_id": "t105",
         "name": "Outdoor Swing",
         "price": 150,
-        "labels": ["Outdoor"],
+        "labels": [
+            "Outdoor"
+        ],
         "createdAt": 1598031801011,
         "inStock": false
     },
@@ -43,7 +90,10 @@
         "_id": "t106",
         "name": "Building Blocks",
         "price": 50,
-        "labels": ["Puzzle", "Art"],
+        "labels": [
+            "Puzzle",
+            "Art"
+        ],
         "createdAt": 1584031801011,
         "inStock": true
     },
@@ -51,7 +101,9 @@
         "_id": "t107",
         "name": "Baby Rattle",
         "price": 20,
-        "labels": ["Baby"],
+        "labels": [
+            "Baby"
+        ],
         "createdAt": 1570031801011,
         "inStock": true
     },
@@ -59,7 +111,10 @@
         "_id": "t108",
         "name": "Stuffed Bear",
         "price": 40,
-        "labels": ["Baby", "Doll"],
+        "labels": [
+            "Baby",
+            "Doll"
+        ],
         "createdAt": 1556031801011,
         "inStock": false
     },
@@ -67,16 +122,11 @@
         "_id": "t109",
         "name": "Remote Control Helicopter",
         "price": 130,
-        "labels": ["On wheels", "Battery Powered"],
+        "labels": [
+            "On wheels",
+            "Battery Powered"
+        ],
         "createdAt": 1542031801011,
-        "inStock": true
-    },
-    {
-        "_id": "t110",
-        "name": "Board Game",
-        "price": 60,
-        "labels": ["Box game"],
-        "createdAt": 1528031801011,
         "inStock": true
     }
 ]

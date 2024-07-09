@@ -63,21 +63,20 @@ function remove(toyId) {
     return _saveToysToFile()
 }
 
-function save(toy) {
-    if (toy._id) {
-        const toyToUpdate = gToys.find(currToy => currToy._id === toy._id)
+function save(toyToSave) {
+    if (toyToSave._id) {
+        const existingToyIdx = gToys.findIndex(toy => toy._id === toyToSave._id)
+        if (existingToyIdx === -1) return Promise.reject('No Such Toy')
         
-        toyToUpdate.name = toy.name
-        toyToUpdate.price = toy.price
-        toy = toyToUpdate
+        gToys[existingToyIdx] = { ...gToys[existingToyIdx], ...toyToSave }
     } else {
-        toy._id = utilService.makeId()
-        toy.createdAt = Date.now()
-        gToys.unshift(toy)
-        // gToys.push(toy)
+        toyToSave._id = utilService.makeId()
+        toyToSave.createdAt = Date.now()
+        gToys.unshift(toyToSave)
+        // gToys.push(toyToSave)
     }
     
-    return _saveToysToFile().then(() => toy)
+    return _saveToysToFile().then(() => toyToSave)
 }
 
 function getLabels() {
