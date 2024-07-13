@@ -8,7 +8,7 @@ export const toyService = {
     getById,
     remove,
     save,
-    getLabels
+    // getLabels
 }
 
 const gToys = utilService.readJsonFile('data/toy.json')
@@ -16,23 +16,22 @@ const gToys = utilService.readJsonFile('data/toy.json')
 function query(filterBy = {}) {
     var filteredToys = gToys
     if (!filterBy) return Promise.resolve(filteredToys)
-    // Filtering by text
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
         filteredToys = filteredToys.filter(toy => regExp.test(toy.name))
     }
-    // Filtering by max price
     if (filterBy.maxPrice) {
         filteredToys = filteredToys.filter(toy => toy.price <= filterBy.maxPrice)
     }
-    // Filter by whether it is in stock
-    if (filterBy.inStock && filterBy.inStock !== 'all') {
-        filteredToys = filteredToys.filter((toy) => (filterBy.inStock === 'inStock' ? toy.inStock : !toy.inStock))
+    if (filterBy.inStock) {
+        filteredToys = filteredToys.filter(toy => toy.inStock === JSON.parse(filterBy.inStock))
     }
+    // if (filterBy.inStock && filterBy.inStock !== 'all') {
+    //     filteredToys = filteredToys.filter((toy) => (filterBy.inStock === 'inStock' ? toy.inStock : !toy.inStock))
+    // }
 
-    // Filtering by labels
-    if (filterBy.labels && filterBy.labels.length > 0) {
-        // if (filterBy.labels?.length) {
+    if (filterBy.labels && filterBy.labels.length) {
+    // if (filterBy.labels && filterBy.labels.length > 0) {
         filteredToys = filteredToys.filter(toy => filterBy.labels.every(label => toy.labels.includes(label)))
     }
     // Sorting
@@ -79,14 +78,14 @@ function save(toyToSave) {
     return _saveToysToFile().then(() => toyToSave)
 }
 
-function getLabels() {
-    return query().then(toys => {
-        const toysLabels = toys.reduce((acc, toy) => {
-            return [...acc, ...toy.labels]
-        }, [])
-        return [...new Set(toysLabels)]
-    })
-}
+// function getLabels() {
+//     return query().then(toys => {
+//         const toysLabels = toys.reduce((acc, toy) => {
+//             return [...acc, ...toy.labels]
+//         }, [])
+//         return [...new Set(toysLabels)]
+//     })
+// }
 
 function _saveToysToFile() {
     return new Promise((resolve, reject) => {

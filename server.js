@@ -8,6 +8,11 @@ import { loggerService } from './services/logger.service.js'
 
 const app = express()
 
+// App Configuration
+app.use(express.static('public'))
+app.use(cookieParser()) // for res.cookies
+app.use(express.json()) // for req.body
+
 const corsOptions = {
     origin: [
         'http://127.0.0.1:3000',
@@ -19,11 +24,20 @@ const corsOptions = {
 }
 app.use(cors(corsOptions))
 
-
-// Express Config:
-app.use(express.static('public'))
-app.use(cookieParser())
-app.use(express.json())
+// if (process.env.NODE_ENV === 'production') {
+//     app.use(express.static('public'))
+// } else {
+//     const corsOptions = {
+//         origin: [
+//             'http://127.0.0.1:3000',
+//             'http://localhost:3000',
+//             'http://localhost:5173',
+//             'http://127.0.0.1:5173',
+//         ],
+//         credentials: true,
+//     }
+//     app.use(cors(corsOptions))
+// }
 
 // REST API for Toys
 
@@ -32,7 +46,7 @@ app.get('/api/toy', (req, res) => {
     const filterBy = {
         txt: req.query.txt || '',
         maxPrice: +req.query.maxPrice || 0,
-        inStock: req.query.inStock || 'all',
+        inStock: req.query.inStock || '',
         labels: req.query.labels || [],
         sortBy: req.query.sortBy || '',
         sortDir: +req.query.sortDir || 1,
@@ -46,15 +60,6 @@ app.get('/api/toy', (req, res) => {
             res.status(400).send('Cannot get toys')
         })
 })
-
-// app.get('/api/toy/labels', (req, res) => {
-//     toyService.getLabels()
-//         .then(labels => res.send(labels))
-//         .catch(err => {
-//             loggerService.error(`Couldn't get labels`, err)
-//             res.status(400).send(`Couldn't get labels`)
-//         })
-// })
 
 // Toy READ
 app.get('/api/toy/:toyId', (req, res) => {
@@ -75,8 +80,8 @@ app.post('/api/toy', (req, res) => {
         name: req.body.name || '',
         price: +req.body.price || 0,
         labels: req.body.labels || [],
-        createdAt: +req.body.createdAt || 0,
-        inStock: req.body.inStock || '',
+        // createdAt: +req.body.createdAt || 0,
+        // inStock: req.body.inStock || '',
     }
     toyService.save(toyToSave)
         .then((savedToy) => {
@@ -96,7 +101,7 @@ app.put('/api/toy', (req, res) => {
         name: req.body.name || '',
         price: +req.body.price || 0,
         labels: req.body.labels || [],
-        createdAt: +req.body.createdAt || 0,
+        // createdAt: +req.body.createdAt || 0,
         inStock: req.body.inStock || '',
     }
     toyService.save(toyToSave)
@@ -132,7 +137,7 @@ app.get('/**', (req, res) => {
 })
 
 
-const PORT = 3030
-app.listen(PORT, () =>
-    loggerService.info(`Server listening on port http://127.0.0.1:${PORT}/`)
+const port= process.env.PORT || 3030
+app.listen(port, () =>
+    loggerService.info(`Server listening on port http://127.0.0.1:${port}/`)
 )
